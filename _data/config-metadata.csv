@@ -6,7 +6,7 @@ sender,Sender
 recipient,Recipient
 publisher,Publisher
 artist,Artist
-subject,Subjects,true
+subject,Subjects
 location,Location
 senderaddress,Sender Address
 recipientaddress,Recipient Address
@@ -16,7 +16,7 @@ objectid,Object ID
 collection,Collection
 digitalcollection,Digital Collection
 rights,Rights,
-rightsstatement,Rights Statement,,true
+rightsstatement,Rights Statement
 digitalimagepublisher,Digital Image Publisher
 filename,File Name
 format,Format
