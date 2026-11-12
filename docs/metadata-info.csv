@@ -6,7 +6,7 @@ title,Item Title,A name given to the resource. (OCA),dcterms:title,primary name 
 sender,Creator,Sender of postcard. (OCA) ,dcterms:creator,"creator/author of the object. Usually given Last, First, with multiple authors separated using semi-colon","Will, Evan",suggested,Item
 recipient, Creator,recipient of postcard,dc-map,notes,example,required,used-by.
 date sent,Date Created,A point or period of time associated with an event in the lifecycle of the resource. (OCA) ,dc:date,"date of creation of original object, given in ISO 8601 format. In this simple project, please use only a single date.",1901-03-01,suggested,"Browse,Timeline,Data,Item"
-date written,Date Created.
+date written,Date Created,definition,dc-map,notes,example,required,used-by.
 transcription,Description,An account of the resource. (OCA) ,dcterms:description,"A free text description or abstract of the object. Anything significant about the digital resource not covered elsewhere. Use standard punctuation and grammar to describe the item’s history, physical appearance, contents, abstract, etc.",Black and white photograph of white pines in forest,suggested,"Browse,Data,Item"
 subject,Subjects,The topic of the resource. (OCA) ,dcterms:subject,"topics represented in the object, should use a controlled vocabulary. multiple subjects should be separated by a semi-colon",Forestry;Idaho,no,"Subjects,Browse,Data"
 location,Locations,A geographic location to which the resource applies. (DCMI) ,dcterms:spatial,"spatial characteristics of what the object is about, subject-like locations and geographical terms.","Sandpoint, Idaho; Lake Pend Oreille",,Item
