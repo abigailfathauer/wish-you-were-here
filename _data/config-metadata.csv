@@ -1,15 +1,23 @@
-field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
+field,display_name
+title,Title
+datewritten,Date Written
+datesent,Date Sent
+sender,Sender
+recipient,Recipient
+publisher,Publisher
+artist,Artist
 subject,Subjects,true
 location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
-format,Format,
+senderaddress,Sender Address
+recipientaddress,Recipient Address
+type,Type
+transcription,Transcription
+objectid,Object ID
+collection,Collection
+digitalcollection,Digital Collection
 rights,Rights,
 rightsstatement,Rights Statement,,true
+digitalimagepublisher,Digital Image Publisher
+filename,File Name
+format,Format
+datedigitized,Date Digitized
