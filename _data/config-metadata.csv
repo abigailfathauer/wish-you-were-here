@@ -8,6 +8,8 @@ publisher,Publisher
 artist,Artist
 subject,Subjects
 location,Location
+latitude,Latitude
+longitude,Longitude
 senderaddress,Sender Address
 recipientaddress,Recipient Address
 type,Type
