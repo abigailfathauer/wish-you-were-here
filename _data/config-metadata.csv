@@ -1,25 +1,24 @@
-field,display_name
-title,Title
-date,Date
-sender,Sender
-recipient,Recipient
-publisher,Publisher
-artist,Artist
-subject,Subjects
-location,Location
-latitude,Latitude
-longitude,Longitude
-senderaddress,Sender Address
-recipientaddress,Recipient Address
-type,Type
-transcription,Transcription
-objectid,Object ID
-collection,Collection
-digitalcollection,Digital Collection
-rights,Rights
-rightsstatement,Rights Statement
-digitalimagepublisher,Digital Image Publisher
-filename,File Name
-filename,File Name
-format,Format
-datedigitized,Date Digitized
+field,display_name,browse_link,external_link
+title,Title,,
+date,Date,,
+sender,Sender,,
+recipient,Recipient,true,
+publisher,Publisher,,
+artist,Artist,,
+subject,Subjects,true,
+location,Location,,
+latitude,Latitude,,
+longitude,Longitude,,
+senderaddress,Sender Address,,
+recipientaddress,Recipient Address,,
+type,Type,,
+transcription,Transcription,,
+objectid,Object ID,,
+collection,Collection,,
+digitalcollection,Digital Collection,,
+rights,Rights,,
+rightsstatement,Rights Statement,,
+digitalimagepublisher,Digital Image Publisher,,
+filename,File Name,,
+format,Format,,
+datedigitized,Date Digitized,,
