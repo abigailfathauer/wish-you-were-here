@@ -16,8 +16,6 @@ credits: true
 
 As I approached this project, I found myself fascinated by this lost form of communication and soon turned to my collection of 19th century postcards to examine what people were sharing within them. I was especially interested in how people approached their travels and how they communicated their travel experiences with others. "Wish You Were Here" was born of this research query. This repository exists to collect detailed metadata about the postcards in my collection and to make them more widely searchable and shareable for researchers, genealogists, and those who may be generally interested in antique ephemera.
 
-{:.text-center}
-
 ## Create your own Metadata
 
 To create metadata compatible with this CollectionBuilder-Sheets instance the best way to get started is to make of copy of our template in Google Drive:
