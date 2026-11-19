@@ -2,7 +2,7 @@ field,display_name,browse_link,external_link
 title,Title,,
 date,Date,,
 sender,Sender,,
-recipient,Recipient,true,
+recipient,Recipient,,
 publisher,Publisher,,
 artist,Artist,,
 subject,Subjects,true,
