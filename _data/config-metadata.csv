@@ -1,6 +1,6 @@
 field,display_name
 title,Title
-datesent,Date
+date,Date
 sender,Sender
 recipient,Recipient
 publisher,Publisher
